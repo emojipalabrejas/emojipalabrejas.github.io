@@ -994,11 +994,16 @@ section.lazy-placeholder:after {
 }
 .cid-rSZB2EflIO {
   padding-top: 60px;
-  padding-bottom: 120px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-rSZB2EflIO .mbr-section-subtitle {
   color: #767676;
+}
+.cid-rT2x8fBxBC {
+  padding-top: 75px;
+  padding-bottom: 120px;
+  background: linear-gradient(45deg, #55b4d4, #073b4c);
 }
 .cid-rT2qA6nmtZ {
   padding-top: 90px;
