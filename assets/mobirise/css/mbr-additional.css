@@ -1023,6 +1023,27 @@ section.lazy-placeholder:after {
 .cid-rSZB2EflIO .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rT52w1qcBB {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+.cid-rT52w1qcBB .image-block {
+  margin: auto;
+}
+.cid-rT52w1qcBB figcaption {
+  position: relative;
+}
+.cid-rT52w1qcBB figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rT52w1qcBB .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rT2x8fBxBC {
   padding-top: 120px;
   padding-bottom: 120px;
