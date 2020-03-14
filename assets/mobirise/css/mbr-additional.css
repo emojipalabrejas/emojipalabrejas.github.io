@@ -947,6 +947,17 @@ section.lazy-placeholder:after {
 .cid-rT5rTecM4w textarea.form-control {
   min-height: 188px;
 }
+.cid-rT3egMSnLS {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rT3egMSnLS .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rT3egMSnLS H2 {
+  color: #232323;
+}
 .cid-rT27ZQsOtV {
   padding-top: 45px;
   padding-bottom: 60px;
@@ -995,17 +1006,6 @@ section.lazy-placeholder:after {
     width: 100%;
     height: auto;
   }
-}
-.cid-rT3egMSnLS {
-  padding-top: 15px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rT3egMSnLS .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-rT3egMSnLS H2 {
-  color: #232323;
 }
 .cid-rRROWGNhSP {
   padding-top: 15px;
