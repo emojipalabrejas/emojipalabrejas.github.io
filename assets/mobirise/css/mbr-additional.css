@@ -1010,7 +1010,7 @@ section.lazy-placeholder:after {
 }
 .cid-rT27ZQsOtV {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rT27ZQsOtV .carousel-item {
@@ -1056,6 +1056,46 @@ section.lazy-placeholder:after {
     width: 100%;
     height: auto;
   }
+}
+.cid-rTjLs7OgAG {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rTjLs7OgAG .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rTjLs7OgAG .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rTjLs7OgAG .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rTjLs7OgAG .team-item .item-image img {
+  width: 100%;
+}
+.cid-rTjLs7OgAG .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rTjLs7OgAG .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rTjLs7OgAG .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rTjLs7OgAG .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rTjLs7OgAG .team-item .item-caption {
+  background: #efefef;
 }
 .cid-rT5rTecM4w {
   padding-top: 120px;
